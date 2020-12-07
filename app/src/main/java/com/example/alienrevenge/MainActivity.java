@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
                             }
                         });
                     }
-                }, 2, 0);
+                }, 0, 2);
 
 
 //                if( y <= height-200 && y >= 200){
