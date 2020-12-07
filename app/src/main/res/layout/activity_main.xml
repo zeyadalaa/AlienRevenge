@@ -14,15 +14,15 @@
         android:layout_height="match_parent"
         android:src="@drawable/bg_skymorning"
         android:scaleType="centerCrop"/>
+
     <ImageView
         android:id="@+id/img_ufo"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/img_alien"
         android:scaleType="fitCenter"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
         ></ImageView>
+
 </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
